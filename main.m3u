@@ -46,9 +46,33 @@ https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasarte
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-logo="https://lh3.googleusercontent.com/-6VphUlD1L4Y/X0EdNxO1YFI/AAAAAAAA42I/eJl7n6TrfWEZn2j8HSOqg1lOBrieAjlAQCK8BGAsYHg/s0/2020-08-22.png", Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
-
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/512px-Canal_Futura.png", Futura
 https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="Combate" tvg-logo="https://i.imgur.com/mUxuHi4.jpg", Combate
+http://191.37.250.169:8801/live/CombateHD/720p.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2000px-BandNews_TV_logo_2010.svg.png", BandNews 
+http://5.189.152.217:8000/medina/medina/3.ch
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2000px-BandNews_TV_logo_2010.svg.png", DISNEY CHANNEL
+http://212.102.58.151/STREAM_8392/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2000px-BandNews_TV_logo_2010.svg.png", Megapix
+http://31.204.152.6:8081/live/megapix/playlist.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-logo="", TLC 
+http://qra1.me:80/21outu/panzer.32/29902?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="RBA TV" tvg-logo="https://i.imgur.com/OdGSecB.jpg", RBA TV 
+https://streaming03.zas.media:1936/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png", Telecine Fun
+http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/687.ts
+#EXTINF:-1 tvg-id="Hbo2" tvg-logo="https://i.imgur.com/OdGSecB.jpg",HBO2
+http://212.102.58.151/STREAM_8264/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://i.imgur.com/OdGSecB.jpg", HBO PLUS
+http://212.102.58.151/STREAM_8261/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://i.imgur.com/OdGSecB.jpg", HBO FAMILY 
+http://212.102.58.151/STREAM_8263/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.imgur.com/OdGSecB.jpg", HBO 
+http://212.102.58.151/STREAM_8266/index.m3u8?token=Mj8vJzr4HoJEMKxJbMo5ThotxD9M477HcnngO00p1XL1pX1VVAzQqzqrxerbTws
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png", Cinemax HD
+http://neonp2p.com:8080/Luciene2022/2022luciene/856096
 
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
