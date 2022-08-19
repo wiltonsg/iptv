@@ -1,51 +1,54 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
 
-#EXTINF: -1 tvg-id="1" tvg-name"TVE Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png", TVE Bahia
+#EXTINF: -1 tvg-id="TVE Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF: -1 tvg-id="2" tvg-name"SBT TV Aratu" tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png", SBT TV Aratu
+#EXTINF: -1 tvg-id"SBT TV Aratu" tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png", SBT TV Aratu
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-#EXTINF: -1 tvg-id="8" tvg-name"TV CULTURA" tvg-logo="https://i.imgur.com/slWITgo.png", TV CULTURA
+#EXTINF: -1 tvg-id"TV CULTURA" tvg-logo="https://i.imgur.com/slWITgo.png", TV CULTURA
 https://maestro-prd-nh.eduplay.rnp.br/route/channel33309/index.m3u8
-#EXTINF: -1 tvg-id="9" tvg-name"TV CULTURA PR" tvg-logo="https://i.imgur.com/OdGSecB.jpg", TV CULTURA PR
+#EXTINF: -1 tvg-id"TV CULTURA PR" tvg-logo="https://i.imgur.com/OdGSecB.jpg", TV CULTURA PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
-#EXTINF: -1 tvg-id="202" tvg-name"TV Brasil" tvg-logo="", TV Brasil
+#EXTINF: -1 tvg-id"TV Brasil" tvg-logo="", TV Brasil
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF: -1 tvg-id="5" tvg-name"CBN Rio" tvg-logo="https://imgur.com/yGdGBF0.png", CBN Rio
+#EXTINF: -1 tvg-id"CBN Rio" tvg-logo="https://imgur.com/yGdGBF0.png", CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF: -1 tvg-id="5" tvg-name"CBN São Paulo" tvg-logo="https://imgur.com/yGdGBF0.png", CBN São Paulo
+#EXTINF: -1 tvg-id"CBN São Paulo" tvg-logo="https://imgur.com/yGdGBF0.png", CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF: -1 tvg-id="4" tvg-name"CANAL SAÚDE" tvg-logo="https://i.imgur.com/mOcCv9k.png", CANAL SAÚDE
+#EXTINF: -1 tvg-id"CANAL SAÚDE" tvg-logo="https://i.imgur.com/mOcCv9k.png", CANAL SAÚDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-#EXTINF: -1 tvg-id="6" tvg-name"PUC TV Goiás" tvg-logo="", PUC TV Goiás
+#EXTINF: -1 tvg-id"PUC TV Goiás" tvg-logo="", PUC TV Goiás
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF: -1 tvg-id="7" tvg-name"TERRA VIVA" tvg-logo="https://i.imgur.com/OdGSecB.jpg", TERRA VIVA
+#EXTINF: -1 tvg-id"TERRA VIVA" tvg-logo="https://i.imgur.com/OdGSecB.jpg", TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w1040118666.m3u8
-#EXTINF: -1 tvg-id="10" tvg-name"Tastemade Brasil" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png", Tastemade Brasil
+#EXTINF: -1 tvg-id"Tastemade Brasil" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png", Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-id="100" tvg-name"Bloomberg TV" tvg-logo="", Bloomberg TV
+#EXTINF: -1 tvg-id"Bloomberg TV" tvg-logo="", Bloomberg TV
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-id="101" tvg-name"FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/solidLogoPNG.png", FUEL TV
+#EXTINF: -1 tvg-id"FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/solidLogoPNG.png", FUEL TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8
-#EXTINF: -1 tvg-id="102" tvg-name"MY TIME MOVIES 2" tvg-logo="", MY TIME MOVIES 2
+#EXTINF: -1 tvg-id"MY TIME MOVIES 2" tvg-logo="", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-id="103" tvg-name"REDE UTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74a615920288577b11ec8ae78badf28b.webp", REDE UTV
+#EXTINF: -1 tvg-id"REDE UTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74a615920288577b11ec8ae78badf28b.webp", REDE UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1656747096.m3u8
-#EXTINF: -1 tvg-id="104" tvg-name"TV DAS ARTES" tvg-logo="https://imgur.com/Epxr8DX.png", TV DAS ARTES
+#EXTINF: -1 tvg-id"TV DAS ARTES" tvg-logo="https://imgur.com/Epxr8DX.png", TV DAS ARTES
 http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
-#EXTINF: -1 tvg-id="105" tvg-name"TV UFSC" tvg-logo="https://i.imgur.com/R8qQGoZ.png", TV UFSC
+#EXTINF: -1 tvg-id"TV UFSC" tvg-logo="https://i.imgur.com/R8qQGoZ.png", TV UFSC
 http://150.162.188.10:8080/hls/1_hi.m3u8
-#EXTINF: -1 tvg-id="106" tvg-name"TV VICOSA" tvg-logo="https://imgur.com/Vj7VjrB.png", TV VICOSA
+#EXTINF: -1 tvg-id"TV VICOSA" tvg-logo="https://imgur.com/Vj7VjrB.png", TV VICOSA
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF: -1 tvg-id="107" tvg-name"Canal Rural" tvg-logo="https://i.imgur.com/OdGSecB.jpg", Canal Rural
+#EXTINF: -1 tvg-id"Canal Rural" tvg-logo="https://i.imgur.com/OdGSecB.jpg", Canal Rural
 https://607d2a1a47b1f.streamlock.net:443/crur/smil:canalrural.smil/chunklist_w594247358_b1585000_sleng.m3u8
-#EXTINF: -1 tvg-id="108" tvg-name"TV Sjid (BA)" tvg-logo="https://i.imgur.com/fBbD40b.png", TV Sjid (BA)
+#EXTINF: -1 tvg-id"TV Sjid (BA)" tvg-logo="https://i.imgur.com/fBbD40b.png", TV Sjid (BA)
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-#EXTINF: -1 tvg-id="109" tvg-name"TV Vale das Artes" tvg-logo="https://listaiptv.gratis/logos/imagens/valedasartes.png", TV Vale das Artes
+#EXTINF: -1 tvg-id"TV Vale das Artes" tvg-logo="https://listaiptv.gratis/logos/imagens/valedasartes.png", TV Vale das Artes
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
-#EXTINF: -1 tvg-id="200" tvg-name"Rede TV Sul" tvg-logo="", Rede TV Sul
+#EXTINF: -1 tvg-id"Rede TV Sul" tvg-logo="", Rede TV Sul
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
-#EXTINF:-1 tvg-id="560" tvg-name="Band" tvg-logo="https://lh3.googleusercontent.com/-6VphUlD1L4Y/X0EdNxO1YFI/AAAAAAAA42I/eJl7n6TrfWEZn2j8HSOqg1lOBrieAjlAQCK8BGAsYHg/s0/2020-08-22.png", Band
+#EXTINF:-1 tvg-id="Band" tvg-logo="https://lh3.googleusercontent.com/-6VphUlD1L4Y/X0EdNxO1YFI/AAAAAAAA42I/eJl7n6TrfWEZn2j8HSOqg1lOBrieAjlAQCK8BGAsYHg/s0/2020-08-22.png", Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/512px-Canal_Futura.png", Futura
+https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
@@ -301,5 +304,5 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel International (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:-1 tvg-id="579" tvg-name="TV J.SID" tvg-logo="https://lh3.googleusercontent.com/-wF_2aDpOhpg/X0KP5o5MN-I/AAAAAAAA45k/_bhDjh2onMAqL2ShSZiG0Z5asBAbO172wCK8BGAsYHg/s0/2020-08-23.jpg", TV J.SID
+#EXTINF:-1 tvg-id="579" tvg-id="TV J.SID" tvg-logo="https://lh3.googleusercontent.com/-wF_2aDpOhpg/X0KP5o5MN-I/AAAAAAAA45k/_bhDjh2onMAqL2ShSZiG0Z5asBAbO172wCK8BGAsYHg/s0/2020-08-23.jpg", TV J.SID
 https://livefocamundo.com:8081/tvjsid/index.m3u8
