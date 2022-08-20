@@ -5,7 +5,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF: -1 tvg-id"SBT TV Aratu" tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png", SBT TV Aratu
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF: -1 tvg-id"TV CULTURA" tvg-logo="https://i.imgur.com/slWITgo.png", TV CULTURA
-https://maestro-prd-nh.eduplay.rnp.br/route/channel33309/index.m3u8
+http://www.portalcultura.com.br:80/playerhtml/funtelpa/tv_funtelpa/chunklist_w1785159647.m3u8
 #EXTINF: -1 tvg-id"TV CULTURA PR" tvg-logo="https://i.imgur.com/OdGSecB.jpg", TV CULTURA PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1027478611.m3u8
 #EXTINF: -1 tvg-id"TV Brasil" tvg-logo="", TV Brasil
@@ -49,8 +49,28 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/512px-Canal_Futura.png", Futura
 https://tv.unisc.br/hls/test.m3u8
 
+#EXTINF:-1 tvg-id="TVE ES" tvg-logo="https://imgur.com/CEvLASJ.png", TVE ES
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Futuro" tvg-logo="https://i.imgur.com/Iis32zv.png", TV Futuro
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="Combate" tvg-logo="https://i.imgur.com/mUxuHi4.jpg", Combate
 http://191.37.250.169:8801/live/CombateHD/720p.m3u8
+#EXTINF:-1 tvg-id="AMAZON SAT" tvg-logo="https://imgur.com/mpNEidr.png", AMAZON SAT 
+https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://imgur.com/DtCwjUq.png", WARNER CHANNEL
+http://50.7.34.155:2201/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ERT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png", ERT World 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 tvg-id="ERT World" tvg-logo="", Wild Earth (Brazil) 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="DW English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg", DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="Nature TV" tvg-logo="https://i.imgur.com/VlGTFUC.png", Nature TV
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Faap" tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png", TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-id="TV GAZETA SP" tvg-logo="https://i.imgur.com/OdGSecB.jpg", TV GAZETA SP
+http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
