@@ -48,12 +48,6 @@ https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/512px-Canal_Futura.png", Futura
 https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/OdGSecB.jpg", ANIMAL PLANET HD
-http://212.102.58.151/STREAM_8332/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/OdGSecB.jpg", DISCOVERY HOME & HEALTH HD
-http://212.102.58.151/STREAM_8340/index.m3u8
-#EXTINF:-1 tvg-id="GLOOB" tvg-logo="https://imgur.com/JTKy58b.png",GLOOB
-http://50.7.34.155:2201/BR/Gloob_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Rai News 24" tvg-logo="https://www.rainews.it/dl/rainews/images/apple-touch-icon.png", Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
